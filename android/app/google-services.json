@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939653424854",
+    "project_id": "phone-verify-lala-live",
+    "storage_bucket": "phone-verify-lala-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939653424854:android:b734d6c7321d699c42cb77",
+        "android_client_info": {
+          "package_name": "com.example.phoneverifyx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939653424854-3e0mbnu40csm0slbaa99u991egtqsejk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneverifyx",
+            "certificate_hash": "635538d7a66494a5ce12f2f0870b73744d0612ad"
+          }
+        },
+        {
+          "client_id": "939653424854-p3u1asvm6i0qiap4gquqr85sciqql8j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQgRXte1CJpZAhTnaYjM380DSBu0rJYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939653424854-p3u1asvm6i0qiap4gquqr85sciqql8j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
